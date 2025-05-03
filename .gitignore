@@ -1,1 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# Environment
+.env
 .venv
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# MCP specific
+.mcp_cache/
